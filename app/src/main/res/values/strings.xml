@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">I Am not poor</string>
+    <string name="app_name">I Am NOT POOR</string>
     <string name="textview">I am <b>NOT POOR</b></string>
     <string name="todo">TODO</string>
 </resources>
